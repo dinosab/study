@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dinosab/study/tree/roboFriends/static/css/main.0d39e02c.css",
+    "main.js": "/dinosab/study/tree/roboFriends/static/js/main.c3898cba.js",
+    "static/js/453.eceb90f9.chunk.js": "/dinosab/study/tree/roboFriends/static/js/453.eceb90f9.chunk.js",
+    "index.html": "/dinosab/study/tree/roboFriends/index.html",
+    "main.0d39e02c.css.map": "/dinosab/study/tree/roboFriends/static/css/main.0d39e02c.css.map",
+    "main.c3898cba.js.map": "/dinosab/study/tree/roboFriends/static/js/main.c3898cba.js.map",
+    "453.eceb90f9.chunk.js.map": "/dinosab/study/tree/roboFriends/static/js/453.eceb90f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d39e02c.css",
+    "static/js/main.c3898cba.js"
+  ]
+}
